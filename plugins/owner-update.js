@@ -5,7 +5,7 @@ await conn.sendMessage(m.chat, { react: { text: '🔮', key: m.key } })
 try {
 const stdout = execSync('git pull' + (m.fromMe && text ? ' ' + text : ''));
 let messager = stdout.toString()
-if (messager.includes('Already up to date.')) messager = '🌩 *No Hay Actualizaciones Pendientes.*'
+if (messager.includes('Already up to date.')) messager = '💙 *No Hay Actualizaciones Pendientes.*'
 if (messager.includes('Updating')) messager = '✅️ *Actualizacion Exitosa.*\n\n' + stdout.toString()
 conn.reply(m.chat, messager,)
 } catch { 
