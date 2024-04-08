@@ -53,7 +53,7 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 ┣☆ ඬ⃟🌹 !enable modoia
 ┣☆ ඬ⃟🌹 !disable modoia
 ╰━━━━━━━✦✗✦━━━━━━━━
-𝘉𝘺: 𝘋𝘪𝘦𝘨𝘰𝘖𝘧𝘪𝘤𝘪𝘢𝘭✨`.trim();
+𝘉𝘺: Luis ofc ✨`.trim();
 
             const isEnable = /true|enable|(turn)?on|1/i.test(command);
   const chat = global.db.data.chats[m.chat];
