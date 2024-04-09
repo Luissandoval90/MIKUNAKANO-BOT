@@ -32,43 +32,43 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 ╰◈ ━━━━━━━ ⸙ ━━━━━━━ ◈
 
 ╭✨️⸽⃕┋✿Miku Nakano-Bot🍁⃨፝⃕✰
-┃✣➸ 🦋 𝑺𝒊𝒏 𝑵𝒊𝒏𝒈𝒖𝒏 𝑷𝒓𝒆𝒇𝒊𝒋𝒐.
-┃✣➸ 🦋 _Quien es tu sempai botsito 7w7_
-┃✣➸ 🦋 _Te diagnostico con gay_
-┃✣➸ 🦋 _No digas eso papu_
-┃✣➸ 🦋 _Fiesta del admin_
-┃✣➸ 🦋 _Fiesta del administrador_ 
-┃✣➸ 🦋 _Vivan los novios_
-┃✣➸ 🦋 _Noche de paz_
-┃✣➸ 🦋 _Buenos dias_
-┃✣➸ 🦋 _Buenas tardes_
-┃✣➸ 🦋 _Buenas noches_
-┃✣➸ 🦋 _Audio hentai_
-┃✣➸ 🦋 _Chica lgante_
-┃✣➸ 🦋 _Feliz navidad_
-┃✣➸ 🦋 _Onichan_
-┃✣➸ 🦋 _Vete a la vrg_
-┃✣➸ 🦋 _Pasa pack Bot_
-┃✣➸ 🦋 _Atencion grupo_
-┃✣➸ 🦋 _Marica quien_
-┃✣➸ 🦋 _Uwu_
-┃✣➸ 🦋 _Murio el grupo_
-┃✣➸ 🦋 _Oh me vengo_
-┃✣➸ 🦋 _tio que rico_
-┃✣➸ 🦋 _Viernes_
-┃✣➸ 🦋 _Baneado_
-┃✣➸ 🦋 _Sexo_
-┃✣➸ 🦋 _Nyanpasu_
-┃✣➸ 🦋 _Te amo_
-┃✣➸ 🦋 _Yamete_
-┃✣➸ 🦋 _La biblia_
-┃✣➸ 🦋 _Mierda de Bot_
-┃✣➸ 🦋 _Siuuu_
-┃✣➸ 🦋 _Epico_
-┃✣➸ 🦋 _Shitpost_
-┃✣➸ 🦋 _Rawr_
-┃✣➸ 🦋 _:c_
-┃✣➸ 🦋 _a_
+┃✣➸ 💙 𝑺𝒊𝒏 𝑵𝒊𝒏𝒈𝒖𝒏 𝑷𝒓𝒆𝒇𝒊𝒋𝒐.
+┃✣➸ 💙 _Quien es tu sempai botsito 7w7_
+┃✣➸ 💙 _Te diagnostico con gay_
+┃✣➸ 💙 _No digas eso papu_
+┃✣➸ 💙 _Fiesta del admin_
+┃✣➸ 💙 _Fiesta del administrador_ 
+┃✣➸ 💙 _Vivan los novios_
+┃✣➸ 💙 _Noche de paz_
+┃✣➸ 💙 _Buenos dias_
+┃✣➸ 💙 _Buenas tardes_
+┃✣➸ 💙 _Buenas noches_
+┃✣➸ 💙 _Audio hentai_
+┃✣➸ 💙 _Chica lgante_
+┃✣➸ 💙 _Feliz navidad_
+┃✣➸ 💙 _Onichan_
+┃✣➸ 💙 _Vete a la vrg_
+┃✣➸ 💙 _Pasa pack Bot_
+┃✣➸ 💙 _Atencion grupo_
+┃✣➸ 💙 _Marica quien_
+┃✣➸ 💙 _Uwu_
+┃✣➸ 💙 _Murio el grupo_
+┃✣➸ 💙 _Oh me vengo_
+┃✣➸ 💙 _tio que rico_
+┃✣➸ 💙 _Viernes_
+┃✣➸ 💙 _Baneado_
+┃✣➸ 💙 _Sexo_
+┃✣➸ 💙 _Nyanpasu_
+┃✣➸ 💙 _Te amo_
+┃✣➸ 💙 _Yamete_
+┃✣➸ 💙 _La biblia_
+┃✣➸ 💙 _Mierda de Bot_
+┃✣➸ 💙 _Siuuu_
+┃✣➸ 💙 _Epico_
+┃✣➸ 💙 _Shitpost_
+┃✣➸ 💙 _Rawr_
+┃✣➸ 💙 _:c_
+┃✣➸ 💙 _a_
 ╰◈ ━━━━━━━ ⸙ ━━━━━━━`.trim();     if (m.isGroup) { 
  // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
       const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
